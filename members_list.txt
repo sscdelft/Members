@@ -79,4 +79,6 @@ Y.M.Hashim@tudelft.nl;
 R.Prabhakaran@tudelft.nl;
 M.A.AyalaValenzuela@tudelft.nl;
 dmitry.mrmvp@gmail.com;
-R.P.W.M.Tielen@tudelft.nl
+R.P.W.M.Tielen@tudelft.nl;
+a.garg-1@tudelft.nl;
+J.P.Hinz@tudelft.nl
